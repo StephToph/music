@@ -12,7 +12,7 @@
 	</div>
 	<!-- /Breadcrumb -->
 </div>
-<!-- /Title -->
+<!-- /Titles that has ended -->
 
 <!-- Row -->
 <div class="row">
